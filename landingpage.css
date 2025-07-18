@@ -3,10 +3,10 @@
     height:40px;
     padding-bottom: 16px;
     display: flex;
-    align-items: center;
-    
+    align-items: center; 
 }
 
 .Mini { 
-    padding-left: 300px    
+    padding-left: 300px; 
+    gap: 400px;
 }
