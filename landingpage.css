@@ -1,0 +1,12 @@
+.Header {
+    color:red;
+    height:40px;
+    padding-bottom: 16px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.Mini { 
+    padding-left: 300px    
+}
