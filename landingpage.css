@@ -1,12 +1,19 @@
 .Header {
-    color:red;
-    height:40px;
-    padding-bottom: 16px;
+    color: #F9FAF8;
+    height:600px;
+    padding-left: 140px;
     display: flex;
-    align-items: center; 
+    align-items: top; 
+    padding-bottom: 16px;
+    background-color: #1f2937;
+
 }
 
 .Mini { 
-    padding-left: 300px; 
-    gap: 400px;
+    gap: 40px;
+    display: flex;
+    margin-left: auto;
+    align-items: top; 
+    padding-top: 25px;
+    padding-right: 140px;
 }
