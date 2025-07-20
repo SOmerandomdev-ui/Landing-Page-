@@ -1,3 +1,6 @@
+.Main {
+    font-family: 'Roboto', sans-serif; 
+}
 /* Css for all the headers*/
 .Header {
     color: #F9FAF8;
@@ -83,7 +86,7 @@
 
 .Second {
     display: flex;
-    height: 500px;
+    height: 550px;
     outline-width: 10px;
     flex-direction: column;
 }
@@ -107,7 +110,6 @@
     flex-direction: row;
     padding-left: 290px;
     padding-right:290px;
-    
 }
 
 .box1, .box2, .box3, .box4 {
@@ -125,9 +127,43 @@
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    padding-top: 10px;
 }
 
 .subtext1, .subtext2, .subtext3, .subtext4 {
     width: 190px;
     font-size: 16px;
+    font-style: E5E7Eb;
 }
+
+.Third {
+    display: flex;
+    background-color: #E5E7EB;
+    height: 500px; 
+    align-items: center;
+    justify-content: center;
+    font-style: light italic;
+    flex-direction: column;
+
+}
+
+.Testimonoial {
+    display: flex;
+    font-size: 36px;
+    font-style:  italic;
+    font-style: light;
+    color: #1F2937;
+    width: 900px;
+    
+}
+
+.Quote {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    width: 900px;
+    font-size: 20px;
+    font-weight: 900;
+    
+}
+
